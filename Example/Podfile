@@ -1,6 +1,0 @@
-use_frameworks!
-target 'RNCMaskedView_Tests' do
-  pod 'RNCMaskedView', :path => '../'
-  
-  
-end
